@@ -3,20 +3,22 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
 CCTV-8,http://119.32.12.17:2901/udp/224.1.100.86:11111
-CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
+CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
+CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 
 卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://113.57.93.165:9900/tsfile/live/0128_1.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -27,6 +29,7 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+广西卫视,http://123.163.114.72:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
@@ -53,8 +56,6 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 
 北京频道,#genre#
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1750971608&sign=50191a5046555f5b5d959786835ab95e
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1750971610&sign=d6df1e9a73dae3854173efc317ef45a1
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -79,7 +80,6 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 
 广东频道,#genre#
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
-广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
@@ -102,6 +102,7 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
 
 河南频道,#genre#
+河南都市,http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
 河南民生,http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
@@ -120,14 +121,11 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 黑龙江频道,#genre#
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 
 吉林频道,#genre#
@@ -153,13 +151,19 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 青海频道,#genre#
 
 山东频道,#genre#
+山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
+山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东综艺,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
+山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8
+山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 
 山西频道,#genre#
 
 陕西频道,#genre#
+陕西新闻资讯,http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
+陕西都市青春,http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 四川频道,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
@@ -189,7 +193,6 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 云南频道,#genre#
 
 浙江频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
